@@ -15,7 +15,7 @@
 | Project | What it is | Link |
 | :-- | :-- | :-- |
 | **SETU** | Unified Government Interoperability Gateway | [harshkharee/SETU](https://github.com/harshkharee/SETU) |
-| **RailCast** | AI/ML Train Delay Forecasting System | [harshkharee/RailCast](https://github.com/harshkharee/RailCast) |
+| **SigmaGPT** | AI-Powered Conversational Chatbot | [harshkharee/RailCast](https://github.com/harshkharee/RailCast) |
 | **Zerodha Clone** | Full-Stack Trading Platform | [harshkharee/zerodha-clone](https://github.com/harshkharee/zerodha-clone) |
 
 <div align="center">
