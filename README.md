@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**harshkharee/harshkharee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/hero.svg?v=1" alt="Harsh Khare — Full-Stack Developer" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="assets/about-life.svg?v=1" alt="Capabilities and interests" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/stack.svg?v=1" alt="Tech stack orbiting" width="100%"/>
+
+<img src="assets/id-dashboard.svg?v=1" alt="Harsh Khare ID dashboard" width="100%"/>
+
+</div>
+
+## Featured Projects
+
+| Project | What it is | Link |
+| :-- | :-- | :-- |
+| **SETU** | Unified Government Interoperability Gateway | [harshkharee/SETU](https://github.com/harshkharee/SETU) |
+| **RailCast** | AI/ML Train Delay Forecasting System | [harshkharee/RailCast](https://github.com/harshkharee/RailCast) |
+| **Zerodha Clone** | Full-Stack Trading Platform | [harshkharee/zerodha-clone](https://github.com/harshkharee/zerodha-clone) |
+
+<div align="center">
+
+<img src="assets/connect.svg?v=1" alt="Let's connect" width="100%"/>
+
+[**LinkedIn**](https://linkedin.com/in/harshkharee) &nbsp;·&nbsp; [**GitHub**](https://github.com/harshkharee) &nbsp;·&nbsp; [**X**](https://x.com/harshkhare08) &nbsp;·&nbsp; [**LeetCode**](https://leetcode.com/harsh_kharee)
+
+</div>
