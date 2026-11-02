@@ -15,7 +15,7 @@
 | Project | What it is | Link |
 | :-- | :-- | :-- |
 | **SETU** | Unified Government Interoperability Gateway | [harshkharee/SETU](https://github.com/harshkharee/Setu-Minor) |
-| **SigmaGPT** | AI-Powered Conversational Chatbot | [harshkharee/RailCast](https://github.com/harshkharee/SigmaGPT) |
+| **SigmaGPT** | AI-Powered Conversational Chatbot | [harshkharee/SigmaGPT](https://github.com/harshkharee/SigmaGPT) |
 | **Zerodha Clone** | Full-Stack Trading Platform | [harshkharee/zerodha-clone](https://github.com/harshkharee/Zerodha-Clone) |
 
 <div align="center">
